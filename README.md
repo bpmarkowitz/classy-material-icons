@@ -4,6 +4,8 @@
 
 Classy Material Icons works with either the Google Hosted Web Font method or the Self Hosted Web Font method defined in the [Material Icons Icon font for the web](http://google.github.io/material-design-icons/#icon-font-for-the-web) specifications. It does not change the default behavior, it only adds additional functionality.
 
+It's generated using SCSS and the contents codepoints file [included in the Material Icon repo](https://github.com/google/material-design-icons/blob/master/iconfont/codepoints), so it's easy to update when Google adds new icons. 
+
 It saved me a bunch of time on something, hopefully it will help you out as well.
 
 ### Example
