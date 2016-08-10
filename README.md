@@ -22,13 +22,13 @@ You can also use codepoints:
 
 ### Usage
 
-1. First, if you are not already using Google Material Icons, add them to your project using [these steps](http://google.github.io/material-design-icons/#icon-font-for-the-web).
+First, if you are not already using Google Material Icons, add them to your project using [these steps](http://google.github.io/material-design-icons/#icon-font-for-the-web).
 
-2. Second, grab the classy-material-icons.css file from the repo and add the file to your project.
+Second, grab the classy-material-icons.css file from the repo and add the file to your project.
 
 `<link href="css/classy-material-icons.css" rel="stylesheet">`
 
-3. Finally, use either of these additional methods to add icons to your project:
+Finally, use either of these additional methods to add icons to your project:
 
 `<i class="material-icons icon-face"></i>`
 
